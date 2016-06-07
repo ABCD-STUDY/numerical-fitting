@@ -15,7 +15,7 @@ browserify curve_fit.js -o curve_fit_bundle.js -d
 
 You can use nodejs to test the functionality. An example program is provided in test.js.
 ```
-node test.js
+node driver.js
 ```
 
 ### Funding Message
